@@ -8,7 +8,9 @@ Please note that the application "Food Reservation\cmake-build-debug\Food_Reserv
 
 I apologize for any inconvenience this may cause. However, if you're not using Windows x64, you can still run this program through your IDE.
 
+To view the code as HTML, please download the project and use the files in the exportToHTML folder.
 
+Thank you for your understanding!
 
 __________________________________________________________________________________________________
 
