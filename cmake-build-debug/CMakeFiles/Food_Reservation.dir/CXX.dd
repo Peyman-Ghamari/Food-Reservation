@@ -1,0 +1,5 @@
+ninja_dyndep_version = 1.0
+build CMakeFiles/Food_Reservation.dir/main.cpp.obj: dyndep
+
+build CMakeFiles/Food_Reservation.dir/my_functions.cpp.obj: dyndep
+
