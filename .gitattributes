@@ -1,11 +1,9 @@
-# Ignore SWIG and generated files for language stats
+# Ignore all files related to SWIG and HTML for language stats
 *.i linguist-generated=true
 *.swig linguist-generated=true
 *.cxx linguist-generated=true
+*.html linguist-generated=true
 
 # Explicitly set the language for C++ files
 *.cpp linguist-language=C++
 *.h linguist-language=C++
-
-# Ignore HTML files from language detection
-*.html linguist-generated=true
