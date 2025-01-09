@@ -1,10 +1,10 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Food%20Reservation)
-
-Hello,<br>
-This is
+<br>
+__________________________________________________________________________________________________
 
 ![My GIF](assets/Peyman.gif)
 
+Hello,
 
 I developed this food reservation system using a JSON database. While I could have installed JSON via VCPKG, I decided not to use it for this project. Instead, I included the JSON files directly in the project folder.
 
