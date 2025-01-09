@@ -1,7 +1,8 @@
+# Ignore SWIG and generated files for language stats
 *.i linguist-generated=true
 *.swig linguist-generated=true
 *.cxx linguist-generated=true
-*.cpp linguist-generated=true
 
+# Explicitly set the language for C++ files
 *.cpp linguist-language=C++
 *.h linguist-language=C++
